@@ -10,7 +10,7 @@
 
 ## Overview
 
-Sign-Link is a software-based, camera-first system for recognising American Sign Language (ASL) hand gestures in real time using Computer Vision and Deep Learning. It requires no wearable sensors — just a standard webcam.  
+Sign-Link is a software-based, camera-first system for recognising American Sign Language (ASL) hand gestures in real time using Computer Vision and Deep Learning. It requires no wearable sensorsjus t a standard webcam.  
 
 ### Key Features
 - Real-time ASL alphabet recognition (29 classes: A–Z + del + space + nothing)
