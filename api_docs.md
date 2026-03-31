@@ -1,6 +1,6 @@
 # Sign-Link API Documentation
 
-**Author:** Aarushi Jain | 25BAI11158 | VIT  
+**Author:** Anuj Tiwari | 25BCE11363 | VIT  
 **Base URL (local):** `http://localhost:5000`
 
 ---
