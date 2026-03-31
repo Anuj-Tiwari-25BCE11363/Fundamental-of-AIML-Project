@@ -1,5 +1,5 @@
 # Sign-Link: ASL Recognition System — Requirements
-# Author: Aarushi Jain | 25BAI11158 | VIT
+# Author: Anuj Tiwari | 25BCE11363 | VIT
 
 # Core ML / DL
 numpy>=1.24
