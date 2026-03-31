@@ -1,0 +1,35 @@
+# Sign-Link: ASL Recognition System — Requirements
+# Author: Aarushi Jain | 25BAI11158 | VIT
+
+# Core ML / DL
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+tensorflow>=2.13
+keras>=2.13
+
+# Computer Vision
+opencv-python>=4.8
+mediapipe>=0.10
+
+# Web framework
+flask>=3.0
+flask-cors>=4.0
+
+# Database
+sqlalchemy>=2.0
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+plotly>=5.18
+
+# Data utilities
+pillow>=10.0
+
+# Testing
+pytest>=7.4
+pytest-cov>=4.1
+
+# Notebook / script conversion (optional)
+jupytext>=1.16
